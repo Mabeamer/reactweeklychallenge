@@ -1,0 +1,26 @@
+<html>
+<head>
+<body>
+      <form action "" method = get>
+        First name: <input type="text" name="fname">
+        <br>
+        Last name: <input type="text" name="lname">
+        </br>
+          <input type="radio" option value = "Male"> Male </option>
+          <input type="radio" option value = "Female"> Female </option>
+    </br>
+      <input type = "checkbox" name = "pizza" value = "pepperoni"> Pepperoni </br>
+      <input type = "checkbox" name = "pizza" value = "cheese"> Cheese </br>
+      <input type = "checkbox" name = "pizza" value = "bone"> Bone </br>
+      <input type = "checkbox" name = "pizza" value = "bell peppers"> Bell peppers </br>
+      <input type = "checkbox" name = "pizza" value = "black olives"> Black olives </br>
+      <select>
+        <option value = "Football">Football</option>
+        <option value = "Soccor">Soccor</option>
+        <option value = "basketball">Basketball</option>
+       </selct>
+</br>
+<input type="submit" value="save">
+      </form>
+  </body>
+</html>
